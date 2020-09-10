@@ -21,4 +21,4 @@ Let me introduce myself ~
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveAlakazam&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveAlakazam&show_icons=true) 
