@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**loveAlakazam/loveAlakazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**loveAlakazam/loveAlakazam** is a ✨ 매일매일 깃헙에 올리려고 노력하려고 해 ㅋㅋㅋㅋ ✨ 
 
-Here are some ideas to get you started:
+Let me introduce myself ~
 
 - 🔭 I’m currently working on 코딩하는 백수...ㅋ
 - 🌱 I’m currently learning java, html, css, vanilla js, jquery, python, mongodb, react, react-native
