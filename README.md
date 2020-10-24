@@ -4,7 +4,7 @@
 
 <br>
 
-## :point_left: Want to be a Back-End Developer & DataEngineer, Love AlaKazam!
+## :point_up: Want to be a Back-End Developer & DataEngineer, Love AlaKazam!
 
 
 <br>
