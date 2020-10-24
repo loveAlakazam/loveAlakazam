@@ -1,6 +1,6 @@
 # :spoon: Who is the loveAlakazam? 
 
-<img src="alakazam_psycocutter.jpg" width="500" height="300" />
+<img src="alakazam_psycocutter.jpg" width="100%" height="500" />
 
 <br>
 
