@@ -26,3 +26,6 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveAlakazam&show_icons=true) 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dmsrkd1216})](https://solved.ac/{dmsrkd1216})
