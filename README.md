@@ -14,14 +14,12 @@
   
   <strong>Contacts</strong>
   <br>
-  <a href="https://ek12mv2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <br>
   <a href="https://ek12mv2.tistory.com" target="_blank">
       <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
-  <email>    
+  <a href="mailto:dmsrkd1216@gmail.com">    
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </email>
+  </a>
 
 
   <br><br>
