@@ -10,6 +10,8 @@
 
 <div align="center" display="inline-block">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FloveAlakazam%2Fhit-counter&count_bg=%23E2C714&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <br>
+  <a href="https://eunkangchoi.github.io/about">📝 About Me</a>
   <br><br>
   <strong>Contacts</strong>
   <br>
@@ -18,7 +20,10 @@
   </a><a href="mailto:dmsrkd1216@gmail.com">    
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
+  <a href="https://www.linkedin.com/in/eunkang-choi-8b0378191">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br>
 
   <br><br>
   <strong>Tech Stacks</strong>
@@ -32,6 +37,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
+    <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
   <br><br>
   <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=google cloud&logoColor=white">
   <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
