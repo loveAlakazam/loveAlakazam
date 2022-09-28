@@ -11,13 +11,11 @@
 <div align="center" display="inline-block">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FloveAlakazam%2Fhit-counter&count_bg=%23E2C714&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br><br>
-  
   <strong>Contacts</strong>
   <br>
   <a href="https://ek12mv2.tistory.com" target="_blank">
       <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-  </a>
-  <a href="mailto:dmsrkd1216@gmail.com">    
+  </a><a href="mailto:dmsrkd1216@gmail.com">    
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
