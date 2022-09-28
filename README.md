@@ -65,3 +65,8 @@
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveAlakazam&show_icons=true) 
 </div>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
