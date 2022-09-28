@@ -10,8 +10,8 @@
 
 <div align="center" display="inline-block">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FloveAlakazam%2Fhit-counter&count_bg=%23E2C714&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <br>
-  <a href="https://eunkangchoi.github.io/about">📝 About Me</a>
+  <br><br>
+  <a href="https://eunkangchoi.github.io/about" style="text-decoration:none">👋 About Me </a>
   <br><br>
   <strong>Contacts</strong>
   <br>
@@ -68,6 +68,7 @@
 
 
 # Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [zsh 환경에서 ruby 패키지매니저 gem 설치하기](https://ek12mv2.tistory.com/272)
 - [[일기] 2022.09.20](https://ek12mv2.tistory.com/267)
