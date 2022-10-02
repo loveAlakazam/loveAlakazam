@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Node.js+Typescript] Node.js와 Typescript 연결 세팅하기 1](https://ek12mv2.tistory.com/277)
 - [zsh 환경에서 ruby 패키지매니저 gem 설치하기](https://ek12mv2.tistory.com/272)
 - [[일기] 2022.09.20](https://ek12mv2.tistory.com/267)
 - [[node.js] 3Layers Architecture 로 리팩토링하기](https://ek12mv2.tistory.com/261)
 - [IT관련 &quot;개발용어&quot;에 익숙해지자 3편 - library 와 framework](https://ek12mv2.tistory.com/264)
-- [[일기] 2022.09.15](https://ek12mv2.tistory.com/263)
 <!-- BLOG-POST-LIST:END -->
