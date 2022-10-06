@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Node.js / Express.js / MongoDB / Mongoose]  문제 풀이 설명](https://ek12mv2.tistory.com/282)
+- [[일기] 2022.10.06](https://ek12mv2.tistory.com/281)
 - [[Node.js/Javascript] commonJS 문법과 ES6 - require&lpar;&rpar; 와 import 비교](https://ek12mv2.tistory.com/285)
 - [[일기] 2022.10.05](https://ek12mv2.tistory.com/284)
 - [[IT용어] IT관련 &quot;개발용어&quot;에 익숙해지자 4편 - &quot;확장성&quot; 있는 코드?](https://ek12mv2.tistory.com/280)
-- [[Javascript] callback함수와 async와 await 그리고 Promise 에 대한 이해](https://ek12mv2.tistory.com/260)
-- [[Node.js+Typescript] Node.js와 Typescript 연결 세팅하기](https://ek12mv2.tistory.com/277)
 <!-- BLOG-POST-LIST:END -->
