@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[원티드 프리온보딩 백엔드 코스] 참가 에세이 - 최은강](https://ek12mv2.tistory.com/291)
 - [[Node.js] node-fetch 와 ERR_REQUIRE_ESM 에러해결](https://ek12mv2.tistory.com/289)
 - [[Node.js/HTTP 통신 테스트] query와 params의 차이](https://ek12mv2.tistory.com/256)
 - [[Node.js / Express.js / MongoDB / Mongoose]  문제 풀이 설명](https://ek12mv2.tistory.com/282)
 - [[일기] 2022.10.06](https://ek12mv2.tistory.com/281)
-- [[Node.js/Javascript] commonJS 문법과 ES6 - require&lpar;&rpar; 와 import 비교](https://ek12mv2.tistory.com/285)
 <!-- BLOG-POST-LIST:END -->
