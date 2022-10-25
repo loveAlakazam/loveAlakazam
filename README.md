@@ -71,8 +71,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [[typeorm] typeorm](https://ek12mv2.tistory.com/301)
-- [[원티드 프리온보딩 백엔드 5차] 1일차](https://ek12mv2.tistory.com/302)
 - [[mysql] CLI 명령어로 mysql connection 부르기](https://ek12mv2.tistory.com/294)
 - [SSL](https://ek12mv2.tistory.com/298)
 - [[일기] 2022.10.13](https://ek12mv2.tistory.com/295)
+- [[원티드 프리온보딩 백엔드 코스] 참가 에세이 - 최은강](https://ek12mv2.tistory.com/291)
 <!-- BLOG-POST-LIST:END -->
