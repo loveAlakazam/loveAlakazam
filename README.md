@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL-2] NestJS + AWS RDS 시작하기](https://ek12mv2.tistory.com/303)
 - [[typeorm] typeorm](https://ek12mv2.tistory.com/301)
 - [[mysql] CLI 명령어로 mysql connection 부르기](https://ek12mv2.tistory.com/294)
 - [SSL](https://ek12mv2.tistory.com/298)
 - [[일기] 2022.10.13](https://ek12mv2.tistory.com/295)
-- [[원티드 프리온보딩 백엔드 코스] 참가 에세이 - 최은강](https://ek12mv2.tistory.com/291)
 <!-- BLOG-POST-LIST:END -->
