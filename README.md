@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[til-4] 에러해결하기 &amp; 코드리뷰](https://ek12mv2.tistory.com/310)
 - [Git Rebase](https://ek12mv2.tistory.com/307)
 - [[TIL-2] NestJS + AWS RDS 시작하기](https://ek12mv2.tistory.com/303)
 - [[typeorm] typeorm](https://ek12mv2.tistory.com/301)
 - [[mysql] CLI 명령어로 mysql connection 부르기](https://ek12mv2.tistory.com/294)
-- [SSL](https://ek12mv2.tistory.com/298)
 <!-- BLOG-POST-LIST:END -->
