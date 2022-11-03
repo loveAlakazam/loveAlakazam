@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[nestJs + typeorm] js-joda 를 사용하여 날짜데이터 넣기](https://ek12mv2.tistory.com/316)
 - [Type number trivaially inferred from a number literal, remove type annotation 에러 해결](https://ek12mv2.tistory.com/315)
 - [package-lock.json 잦은 변경을 막고 싶어요.](https://ek12mv2.tistory.com/308)
 - [[til-4] 에러해결하기 &amp; 코드리뷰](https://ek12mv2.tistory.com/310)
 - [Git Rebase](https://ek12mv2.tistory.com/307)
-- [[TIL-2] NestJS + AWS RDS 시작하기](https://ek12mv2.tistory.com/303)
 <!-- BLOG-POST-LIST:END -->
