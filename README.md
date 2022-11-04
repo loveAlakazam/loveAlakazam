@@ -73,6 +73,6 @@
 - [[NestJS + Typescript ] URL 깨짐 원인과 typeorm where in](https://ek12mv2.tistory.com/317)
 - [[nestJs + typeorm] 날짜데이터를 insert 하기](https://ek12mv2.tistory.com/316)
 - [Type number trivaially inferred from a number literal, remove type annotation 에러 해결](https://ek12mv2.tistory.com/315)
+- [[til-6]](https://ek12mv2.tistory.com/313)
 - [package-lock.json 잦은 변경을 막고 싶어요.](https://ek12mv2.tistory.com/308)
-- [[til-4] 에러해결하기 &amp; 코드리뷰](https://ek12mv2.tistory.com/310)
 <!-- BLOG-POST-LIST:END -->
