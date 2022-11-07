@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[NestJS+TypeORM] Pagination 처리](https://ek12mv2.tistory.com/329)
 - [[Jest+NestJS] Jest 테스트 환경세팅](https://ek12mv2.tistory.com/325)
 - [[NestJS + regex] 정규표현식 활용하기](https://ek12mv2.tistory.com/323)
 - [[NestJS + TypeORM] 소수넘버 필드, 길이 설정](https://ek12mv2.tistory.com/322)
 - [[에러 해결] Cannot find module bcrypt_lib.node](https://ek12mv2.tistory.com/320)
-- [[NestJS + Typescript ] URL 깨짐 원인과 typeorm where in](https://ek12mv2.tistory.com/317)
 <!-- BLOG-POST-LIST:END -->
