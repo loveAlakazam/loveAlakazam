@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[NestJS + Logger] Custom Logger 와 winston Logger 적용하기](https://ek12mv2.tistory.com/334)
 - [[NestJS] Custom 에러 만들기 와 Exception Filter](https://ek12mv2.tistory.com/331)
 - [[NestJS+TypeORM] Pagination 처리](https://ek12mv2.tistory.com/329)
 - [[Jest+NestJS] Jest 테스트 환경세팅](https://ek12mv2.tistory.com/325)
 - [[NestJS + regex] 정규표현식 활용하기](https://ek12mv2.tistory.com/323)
-- [[NestJS + TypeORM] 소수넘버 필드, 길이 설정](https://ek12mv2.tistory.com/322)
 <!-- BLOG-POST-LIST:END -->
