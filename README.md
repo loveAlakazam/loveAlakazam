@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[NestJS] Joi: Cannot read properties of object undefined](https://ek12mv2.tistory.com/342)
 - [[NestJS + MongoDB ] NestJS 프레임워크에 MongoDB 연결해보자](https://ek12mv2.tistory.com/333)
 - [[NestJS] Repository Pattern 적용시키기](https://ek12mv2.tistory.com/339)
 - [[NestJS + Logger] Custom Logger 와 winston Logger 적용하기](https://ek12mv2.tistory.com/334)
 - [[NestJS] Custom 에러 만들기 와 Exception Filter](https://ek12mv2.tistory.com/331)
-- [[NestJS+TypeORM] Pagination 처리](https://ek12mv2.tistory.com/329)
 <!-- BLOG-POST-LIST:END -->
