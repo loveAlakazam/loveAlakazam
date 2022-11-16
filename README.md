@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[MongoDB+Mongoose] MongoDB 옵션 활용하여 쿼리문 작성하기](https://ek12mv2.tistory.com/347)
 - [[NestJS+Mongoose] NestJS 에서 mongoose.populate&lpar;&rpar; 사용하기](https://ek12mv2.tistory.com/345)
 - [[NestJS+Mongoose] Cast to date failed for value &quot;[Function: now]&quot; 에러 해결](https://ek12mv2.tistory.com/344)
 - [[NestJS+Jest] Unit Test 기록하기](https://ek12mv2.tistory.com/343)
 - [[Node.js] nvm 버젼 변경](https://ek12mv2.tistory.com/335)
-- [[NestJS] Joi: Cannot read properties of object undefined](https://ek12mv2.tistory.com/342)
 <!-- BLOG-POST-LIST:END -->
