@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[NestJS+Mongoose] Cast to date failed for value &quot;[Function: now]&quot; 에러 해결](https://ek12mv2.tistory.com/344)
 - [[NestJS+Jest] Unit Test 기록하기](https://ek12mv2.tistory.com/343)
 - [[Node.js] nvm 버젼 변경](https://ek12mv2.tistory.com/335)
 - [[NestJS] Joi: Cannot read properties of object undefined](https://ek12mv2.tistory.com/342)
 - [[NestJS + MongoDB ] NestJS 프레임워크에 MongoDB 연결해보자](https://ek12mv2.tistory.com/333)
-- [[NestJS] Repository Pattern 적용시키기](https://ek12mv2.tistory.com/339)
 <!-- BLOG-POST-LIST:END -->
