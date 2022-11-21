@@ -70,9 +70,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[NestJS+Mongoose] MongoDB aggregation 활용하기](https://ek12mv2.tistory.com/348)
 - [[NestJS + Swagger ] NestJS에서 Swagger 사용하기](https://ek12mv2.tistory.com/332)
 - [[NestJS+MongoDB+Mongoose] MongoDB 외래키 나타내기](https://ek12mv2.tistory.com/336)
 - [[NestJS] command not found: nest](https://ek12mv2.tistory.com/346)
 - [[MongoDB+Mongoose] MongoDB 옵션 활용하여 쿼리문 작성하기](https://ek12mv2.tistory.com/347)
-- [[NestJS+Mongoose] NestJS 에서 mongoose.populate&lpar;&rpar; 사용하기](https://ek12mv2.tistory.com/345)
 <!-- BLOG-POST-LIST:END -->
