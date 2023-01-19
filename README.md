@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[일기] 2023.01.19 - 그동안의 나의 회고와 근황](https://ek12mv2.tistory.com/362)
 - [[NestJS+OAuth2.0] OAuth2.0 연동로그인 구현하기](https://ek12mv2.tistory.com/360)
 - [계층형 아키텍쳐&lpar;Layered Architectures&rpar;](https://ek12mv2.tistory.com/358)
 - [[NestJS + Axios] Axios를 활용하여 현재 날씨데이터를 가져오기](https://ek12mv2.tistory.com/328)
 - [[NestJS+Mongoose] MongoDB aggregation 활용하기](https://ek12mv2.tistory.com/348)
-- [[NestJS+MongoDB+Mongoose] MongoDB 외래키 나타내기](https://ek12mv2.tistory.com/336)
 <!-- BLOG-POST-LIST:END -->
