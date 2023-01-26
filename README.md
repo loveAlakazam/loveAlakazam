@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[CSRF] 크로스 사이트 요청 위조](https://ek12mv2.tistory.com/363)
 - [[일기] 2023.01.26](https://ek12mv2.tistory.com/373)
 - [[일기] 2023.01.25 - Mash Up 에게 더 전달해주고 싶은 이야기..](https://ek12mv2.tistory.com/370)
 - [[Nestjs] Nodemailer 로 메일 보내기](https://ek12mv2.tistory.com/368)
 - [[일기] 2023.01.20](https://ek12mv2.tistory.com/365)
-- [[Nestjs] Nest.js에 Nodemon 으로 실행하도록 하기](https://ek12mv2.tistory.com/369)
 <!-- BLOG-POST-LIST:END -->
