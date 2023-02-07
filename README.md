@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[jekyll/rbenv] rvm을 활용한 rbenv 설치하기](https://ek12mv2.tistory.com/380)
 - [[vscode/git] git-graph 사용하기](https://ek12mv2.tistory.com/377)
 - [[일기] 2023.01.27 - 아티클들을 읽으면서 느낀 솔직한 생각 적기](https://ek12mv2.tistory.com/371)
 - [[Nest.js/CSRF] 크로스 사이트 요청 위조](https://ek12mv2.tistory.com/363)
 - [[일기] 2023.01.26](https://ek12mv2.tistory.com/373)
-- [[일기] 2023.01.25 - Mash Up 에게 더 전달해주고 싶은 이야기..](https://ek12mv2.tistory.com/370)
 <!-- BLOG-POST-LIST:END -->
