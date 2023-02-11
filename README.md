@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Nestjs/AWS SES ] AWS SES 로 메일 전송하기](https://ek12mv2.tistory.com/374)
 - [[jekyll/ruby] `require&#39;: cannot load such file -- webrick &lpar;LoadError&rpar; 에러 해결](https://ek12mv2.tistory.com/382)
 - [[일기] 2023.02.08](https://ek12mv2.tistory.com/379)
 - [[jekyll/rbenv] rvm을 활용한 rbenv 설치하기](https://ek12mv2.tistory.com/380)
 - [[vscode/git] git-graph 사용하기](https://ek12mv2.tistory.com/377)
-- [[일기] 2023.01.27 - 아티클들을 읽으면서 느낀 솔직한 생각 적기](https://ek12mv2.tistory.com/371)
 <!-- BLOG-POST-LIST:END -->
