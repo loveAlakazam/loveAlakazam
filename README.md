@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[IT 개념] CI와 CD 의미](https://ek12mv2.tistory.com/397)
 - [2023.03.12 - 15분 독서 일기](https://ek12mv2.tistory.com/395)
 - [2023.03.11 - 15분 독서일기](https://ek12mv2.tistory.com/394)
 - [2023.03.11](https://ek12mv2.tistory.com/393)
 - [[일기] 2023.03.01 - 2023.03.05](https://ek12mv2.tistory.com/392)
-- [[일기] 2023.02.11](https://ek12mv2.tistory.com/383)
 <!-- BLOG-POST-LIST:END -->
