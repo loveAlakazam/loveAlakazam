@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[일기] 2023.03.21](https://ek12mv2.tistory.com/403)
 - [[업무일지] 2023.03.20](https://ek12mv2.tistory.com/401)
 - [[IT 개념] HTTP 통신](https://ek12mv2.tistory.com/399)
 - [2023.03.13 - 15분 독서일기](https://ek12mv2.tistory.com/396)
 - [[IT 개념] CI와 CD 의미](https://ek12mv2.tistory.com/397)
-- [2023.03.12 - 15분 독서 일기](https://ek12mv2.tistory.com/395)
 <!-- BLOG-POST-LIST:END -->
