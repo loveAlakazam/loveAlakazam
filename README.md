@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[업무일지] 2023.04.04](https://ek12mv2.tistory.com/415)
+- [[독서일기] 2023.04.04](https://ek12mv2.tistory.com/414)
 - [[업무일지] 2023.04.03](https://ek12mv2.tistory.com/413)
 - [[업무일지] 2023.04.02](https://ek12mv2.tistory.com/412)
 - [[업무일지] 2023.04.01](https://ek12mv2.tistory.com/411)
-- [[일기] 2023.04.01](https://ek12mv2.tistory.com/410)
-- [[일기] 2023.04.01](https://ek12mv2.tistory.com/409)
 <!-- BLOG-POST-LIST:END -->
