@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[업무일지] 2023.04.06](https://ek12mv2.tistory.com/418)
 - [[업무일지] 2023.04.05](https://ek12mv2.tistory.com/417)
 - [[DB/MySQL] collate 예약어](https://ek12mv2.tistory.com/416)
 - [[업무일지] 2023.04.04](https://ek12mv2.tistory.com/415)
 - [[독서일기] 2023.04.04](https://ek12mv2.tistory.com/414)
-- [[업무일지] 2023.04.03](https://ek12mv2.tistory.com/413)
 <!-- BLOG-POST-LIST:END -->
