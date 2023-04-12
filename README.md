@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[업무일지] 2023.04.12](https://ek12mv2.tistory.com/425)
 - [[업무일지] 2023.04.09](https://ek12mv2.tistory.com/424)
 - [[일기] 2023.04.09](https://ek12mv2.tistory.com/423)
 - [[일기] 2023.04.08](https://ek12mv2.tistory.com/422)
 - [[디자인패턴] 싱글톤 패턴](https://ek12mv2.tistory.com/420)
-- [[업무일지] 2023.04.07](https://ek12mv2.tistory.com/419)
 <!-- BLOG-POST-LIST:END -->
