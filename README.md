@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[일기/한달어스] 2023.04.18](https://ek12mv2.tistory.com/433)
 - [[일기/한달어스] 2023.04.17](https://ek12mv2.tistory.com/431)
 - [[일기/한달어스] 2023.04.17](https://ek12mv2.tistory.com/430)
 - [[일기/한달어스] 2023.04.16](https://ek12mv2.tistory.com/429)
 - [[업무일지] 2023.04.15 - 2023.04.16](https://ek12mv2.tistory.com/428)
-- [[독서일기] 2023.04.12](https://ek12mv2.tistory.com/426)
 <!-- BLOG-POST-LIST:END -->
