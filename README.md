@@ -78,8 +78,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [[일기/한달어스] 2023.05.01](https://ek12mv2.tistory.com/449)
-- [[일기/한달어스] 2023.04.30](https://ek12mv2.tistory.com/448)
 - [[기본기] 네트워크 1](https://ek12mv2.tistory.com/446)
 - [[일기/한달어스] 2023.04.29](https://ek12mv2.tistory.com/445)
 - [[일기/한달어스] 2023.04.28](https://ek12mv2.tistory.com/443)
+- [[일기/한달어스] 2023.04.27](https://ek12mv2.tistory.com/442)
 <!-- BLOG-POST-LIST:END -->
