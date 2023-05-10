@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[일기/한달어스] 2023.05.10](https://ek12mv2.tistory.com/462)
 - [[일기/한달어스] 2023.05.09](https://ek12mv2.tistory.com/461)
 - [[일기/한달어스] 2023.05.08](https://ek12mv2.tistory.com/460)
 - [[기본기] 네트워크 5](https://ek12mv2.tistory.com/459)
 - [[일기/한달어스] 2023.05.07](https://ek12mv2.tistory.com/458)
-- [[업무일지] 2023.05.06 ~ 2023.05.07](https://ek12mv2.tistory.com/457)
 <!-- BLOG-POST-LIST:END -->
