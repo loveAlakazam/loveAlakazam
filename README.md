@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Mysql/Docker-Compose] Host &#39;172.19.0.1&#39; is not allowed to connect to this MySQL server](https://ek12mv2.tistory.com/476)
+- [[JS/ES6+] 함수형프로그래밍](https://ek12mv2.tistory.com/475)
 - [[Docker] Docker-Compose 기본명령어](https://ek12mv2.tistory.com/473)
 - [[기본기] 서버사이드 랜더링](https://ek12mv2.tistory.com/472)
 - [[업무일지] 2023.05.31](https://ek12mv2.tistory.com/471)
-- [[vscode] zsh: command not found: code](https://ek12mv2.tistory.com/470)
-- [[일기/한달어스] 2023.05.16](https://ek12mv2.tistory.com/468)
 <!-- BLOG-POST-LIST:END -->
