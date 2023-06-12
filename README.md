@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[에러노트] zsh: command not found: firbase](https://ek12mv2.tistory.com/478)
 - [[AWS/다큐먼트 읽기] AWS DynamoDB vs Timestream](https://ek12mv2.tistory.com/477)
 - [[Mysql/Docker-Compose] Host &#39;172.19.0.1&#39; is not allowed to connect to this MySQL server](https://ek12mv2.tistory.com/476)
 - [[JS/ES6+] 함수형프로그래밍](https://ek12mv2.tistory.com/475)
 - [[Docker] Docker-Compose 기본명령어](https://ek12mv2.tistory.com/473)
-- [[기본기] 서버사이드 랜더링](https://ek12mv2.tistory.com/472)
 <!-- BLOG-POST-LIST:END -->
