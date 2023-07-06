@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Github Actions] Slack-WebHook을 활용하여 PR 요청할때마다 슬랙메시지 보내주도록하기](https://ek12mv2.tistory.com/486)
 - [[JS] Javascript 내장함수 활용하기](https://ek12mv2.tistory.com/485)
 - [[npm] dependencies 와 devDependencies 차이점](https://ek12mv2.tistory.com/480)
 - [[에러노트] zsh: command not found: firebase](https://ek12mv2.tistory.com/478)
 - [[AWS/다큐먼트 읽기] AWS DynamoDB vs Timestream](https://ek12mv2.tistory.com/477)
-- [[Mysql/Docker-Compose] Host &#39;172.19.0.1&#39; is not allowed to connect to this MySQL server](https://ek12mv2.tistory.com/476)
 <!-- BLOG-POST-LIST:END -->
