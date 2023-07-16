@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[맛집탐방] 퀸즈베리 도넛하우스](https://ek12mv2.tistory.com/488)
 - [[맛집탐방] 평양면옥](https://ek12mv2.tistory.com/487)
 - [[Github Actions] Slack-WebHook을 활용하여 PR 요청할때마다 슬랙메시지 보내주도록하기](https://ek12mv2.tistory.com/486)
 - [[JS] Javascript 내장함수 활용하기](https://ek12mv2.tistory.com/485)
 - [[npm] dependencies 와 devDependencies 차이점](https://ek12mv2.tistory.com/480)
-- [[에러노트] zsh: command not found: firebase](https://ek12mv2.tistory.com/478)
 <!-- BLOG-POST-LIST:END -->
