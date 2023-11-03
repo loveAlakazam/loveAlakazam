@@ -77,9 +77,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[클린아키텍쳐] 설계원칙 SOLID 2](https://ek12mv2.tistory.com/493)
+- [[클린아키텍쳐] 설계원칙 SOLID 1](https://ek12mv2.tistory.com/492)
 - [[맛집탐방] 퀸즈베리 도넛하우스](https://ek12mv2.tistory.com/488)
 - [[맛집탐방] 평양면옥](https://ek12mv2.tistory.com/487)
 - [[Github Actions] Slack-WebHook을 활용하여 PR 요청할때마다 슬랙메시지 보내주도록하기](https://ek12mv2.tistory.com/486)
-- [[JS] Javascript 내장함수 활용하기](https://ek12mv2.tistory.com/485)
-- [[npm] dependencies 와 devDependencies 차이점](https://ek12mv2.tistory.com/480)
 <!-- BLOG-POST-LIST:END -->
