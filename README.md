@@ -65,12 +65,3 @@
 <br><br>
 
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [path.join&lpar;__dirname&rpar; 학습](https://ek12mv2.tistory.com/495)
-- [[클린아키텍쳐] 설계원칙 SOLID 3](https://ek12mv2.tistory.com/494)
-- [[클린아키텍쳐] 설계원칙 SOLID 2](https://ek12mv2.tistory.com/493)
-- [[클린아키텍쳐] 설계원칙 SOLID 1](https://ek12mv2.tistory.com/492)
-- [[맛집탐방] 퀸즈베리 도넛하우스](https://ek12mv2.tistory.com/488)
-<!-- BLOG-POST-LIST:END -->
