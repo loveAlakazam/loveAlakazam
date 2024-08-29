@@ -1,1 +1,1 @@
-<img src="alakazam_psycocutter.jpg" width="55%" height="50%" />
+<img src="alakazam_psycocutter.jpg" width="100%" height="50%" />
